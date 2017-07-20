@@ -39,6 +39,13 @@ public class goTogetherMain {
 		  return a * b;
 	  }
 	  
+	  public int  createAccount4Rider(int a, int b)
+	  {
+		  
+		  return a * b;
+	  }
+	 
+	  
 	  public int createAccount4Driver(int a, int b)
 	  {
 		  
