@@ -39,6 +39,18 @@ public class goTogetherMain {
 		  return a * b;
 	  }
 	  
+	  public int createAccount4Driver(int a, int b)
+	  {
+		  
+		  return a * b;
+	  }
+	  
+	  public int sendCarpoolRequest(int a, int b)
+	  {
+		  
+		  return a * b;
+	  }
+	  
 	
 	
 }
